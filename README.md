@@ -66,13 +66,6 @@ Most fake jobs show repetitive or unclear descriptions.
 This analysis helps in understanding how fake job postings differ from real ones.
 It highlights the importance of data cleaning, visualization, and pattern recognition before applying any machine learning model.
 
-📂 Project Structure
-Fake_Job_Posting_Analysis/
-│
-├── job_posting_analysis.ipynb     # Main Jupyter Notebook file
-├── fake_job_postings.csv          # Dataset
-├── README.md                      # Project Description
-└── requirements.txt               # Libraries used (optional)
 
 👩‍💻 Author
 
